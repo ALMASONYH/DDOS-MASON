@@ -1,2 +1,1 @@
-1. How to use Hammer [`Watch it`](http://www.youtube.com/watch?v=HVbRUhX2EPo) 
-2. Fork it...
+python3 A7B_KFC.py -s IP -p 80 -t 135
